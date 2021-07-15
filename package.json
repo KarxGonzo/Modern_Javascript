@@ -1,0 +1,26 @@
+{
+  "name": "modern_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarxGonzo/Modern_Javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarxGonzo/Modern_Javascript/issues"
+  },
+  "homepage": "https://github.com/KarxGonzo/Modern_Javascript#readme",
+  "dependencies": {
+    "codemirror": "^5.62.0",
+    "filepond": "^4.28.2",
+    "gulp": "^4.0.2",
+    "moment": "^2.29.1",
+    "quill": "^1.3.7"
+  }
+}
